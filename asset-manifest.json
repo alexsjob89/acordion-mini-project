@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/acordion-mini-project/static/css/main.8e9efb38.css",
-    "main.js": "/acordion-mini-project/static/js/main.330287f9.js",
-    "index.html": "/acordion-mini-project/index.html",
-    "main.8e9efb38.css.map": "/acordion-mini-project/static/css/main.8e9efb38.css.map",
-    "main.330287f9.js.map": "/acordion-mini-project/static/js/main.330287f9.js.map"
+    "main.css": "/responsive-carousel/static/css/main.764ba80a.css",
+    "main.js": "/responsive-carousel/static/js/main.1e442512.js",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (88).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (88).6ce3a9ffac2dcb923f44.jpg",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (86).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (86).54db3295d267e77b6938.jpg",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (89).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (89).24988683cb46d83d6c20.jpg",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (85).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (85).b9b68147becd3c471eb6.jpg",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (87).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (87).2588c999d47ffdc33186.jpg",
+    "static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (84).jpg": "/responsive-carousel/static/media/Must Have 4K UHD Landscapes wallpapers June 2021 (TeNeBrA)_01 (84).48e5a85f90ee81f9b726.jpg",
+    "index.html": "/responsive-carousel/index.html",
+    "main.764ba80a.css.map": "/responsive-carousel/static/css/main.764ba80a.css.map",
+    "main.1e442512.js.map": "/responsive-carousel/static/js/main.1e442512.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e9efb38.css",
-    "static/js/main.330287f9.js"
+    "static/css/main.764ba80a.css",
+    "static/js/main.1e442512.js"
   ]
 }
